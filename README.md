@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Praggyann
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email- pragyanaditya000@gmail.com
 
 <!---
