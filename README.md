@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Praggyann
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Pragyan!
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning to develop in C++
 - 📫 How to reach me: email- pragyanaditya000@gmail.com
 
 <!---
